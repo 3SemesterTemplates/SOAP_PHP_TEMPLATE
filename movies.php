@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Stadiums</title>
+    <title>Movies</title>
 </head>
 <body>
 <h1>Stadiums</h1>
@@ -14,8 +14,8 @@ $result = $client->GetMovie();
 print_r($result);
 
 
-$movieNames = $result/*->StadiumNamesResult->string*/;
-//print_r($stadiumNames->StadiumNamesResult);
+$movieNames = $result;
+
 
 foreach ($movieNames as $titel) {
 
