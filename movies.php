@@ -6,7 +6,7 @@
     <title>Movies</title>
 </head>
 <body>
-<h1>Stadiums</h1>
+<h1>Movies</h1>
 <?php
 $client = new SoapClient("http://soapnatascha.azurewebsites.net/Service1.svc?wsdl");
 
