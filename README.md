@@ -1,0 +1,6 @@
+# SOAP_PHP_TEMPLATE
+Php til soap service
+
+NOTE!
+
+HAR GLEMT AT ÆNDRE TITEL NAVN. 
